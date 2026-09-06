@@ -1,0 +1,6 @@
+node_modules/
+.env
+
+# Documentation files — tidak di-push ke GitHub
+*.md
+docs/
